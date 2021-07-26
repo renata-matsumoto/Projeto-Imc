@@ -1,0 +1,1 @@
+{"ast":null,"code":"import StyleSheet from \"react-native-web/dist/exports/StyleSheet\";","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { StyleSheet } from 'react-native';"]},"metadata":{},"sourceType":"module"}
